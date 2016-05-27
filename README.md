@@ -1,2 +1,4 @@
 # hello-world
-this is a exercise learning the fithub
+this is a exercise for learning the fithub
+
+Hi~~~~~~~~~~
